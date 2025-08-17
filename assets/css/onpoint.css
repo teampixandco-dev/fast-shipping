@@ -2422,7 +2422,7 @@ ul {
 .services-one {
   position: relative;
   display: block;
-  padding: 120px 0 50px;
+  padding: 0px 0 50px;
   z-index: 1;
 }
 
@@ -2522,6 +2522,7 @@ ul {
 .why-choose-one {
   position: relative;
   display: block;
+  padding: 120px 0 0px;
 }
 
 .why-choose-one__left {
