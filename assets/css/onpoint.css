@@ -3574,6 +3574,13 @@ ul {
   z-index: 1;
 }
 
+.marquee-one {
+  position: relative;
+  display: block;
+  padding: 0 0 0;
+  z-index: 1;
+}
+
 .faq-one__bg-color {
   position: absolute;
   top: 0;
@@ -3804,6 +3811,13 @@ ul {
 # Testimonial One
 --------------------------------------------------------------*/
 .testimonial-one {
+  position: relative;
+  display: block;
+  padding: 120px 0 0;
+  z-index: 1;
+}
+
+.history-one {
   position: relative;
   display: block;
   padding: 120px 0 0;
