@@ -67,7 +67,8 @@ body {
 	line-height: 30px;
 }
 .service-one-bg{
-	margin: 0 20px;
+    margin-top: 0 !important;
+	margin: 120px 20px;
 	padding: 100px 90px 100px 90px;
 	border-radius: 20px;
 	position: relative;
@@ -81,7 +82,7 @@ body {
     content: "";
     display: block;
     z-index: 1;
-	background-image: url(../images/homepage-1/bg/service-bg-truck.png);
+	background-image: url(../images/service/service-bg-truck.png);
     background-position: top right;
     background-repeat: no-repeat;
 	opacity: .8;
@@ -119,10 +120,6 @@ body {
 }
 .team-one-bg .pbmit-heading-subheading .pbmit-subtitle{
 	color: var(--pbmit-blackish-color);
-}
-.testimonial-one{
-	padding: 100px 0 50px 0;
-	border-top: 1px solid rgba(var(--pbmit-blackish-color-rgb), .2);
 }
 .testimonial-one .swiper-horizontal>.swiper-pagination-bullets{
 	border: 1px solid rgba(var(--pbmit-global-color-rgb), 0.1);

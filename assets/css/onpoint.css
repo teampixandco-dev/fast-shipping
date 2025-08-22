@@ -684,7 +684,7 @@ ul {
   position: relative;
   display: flex;
   align-items: center;
-  gap: 70px;
+  gap: 50px;
   flex-wrap: wrap;
 }
 
@@ -2766,6 +2766,13 @@ ul {
   opacity: .50;
 }
 
+.service-one {
+  position: relative;
+  display: block;
+  padding: 0 0 120px;
+  z-index: 1;
+}
+
 /*--------------------------------------------------------------
 # About One
 --------------------------------------------------------------*/
@@ -3575,6 +3582,7 @@ ul {
 }
 
 .marquee-one {
+  margin-bottom: 100px !important;
   position: relative;
   display: block;
   padding: 0 0 0;
