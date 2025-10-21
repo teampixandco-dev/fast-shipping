@@ -1057,22 +1057,30 @@
         padding: 69px 10px 39px;
     }
 
+  .about-one__btn-box {
+    display: flex;
+    justify-content: center; /* center button horizontally */
+    margin-top: 15px;
+    text-align: center;
+  }
 
+  .about-one__icon {
+    width: 50px;   /* slightly smaller icon */
+    height: 50px;
+    margin: 0 auto; /* center the icon block */
+  }
 
+  .about-one__icon span {
+    font-size: 24px; /* smaller icon symbol for mobile */
+  }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+  .about-one__list-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 41px;
+    text-align: center;
+  }
 }
 
 
