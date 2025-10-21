@@ -66,31 +66,7 @@ body {
 	font-size: 24px;
 	line-height: 30px;
 }
-.service-one-bg{
-    margin-top: 0 !important;
-	margin: 120px 20px;
-	padding: 100px 90px 100px 90px;
-	border-radius: 20px;
-	position: relative;
-}
-.service-one-bg:before{
-	position: absolute;
-    height: 100%;
-    width: 100%;
-    top: 0;
-    left: 0;
-    content: "";
-    display: block;
-    z-index: 1;
-	background-image: url(../images/service/service-bg-truck.png);
-    background-position: top right;
-    background-repeat: no-repeat;
-	opacity: .8;
-	mix-blend-mode: luminosity;
-}
-.service-one-bg .service-arrow{
-	margin-top: 45px;
-}
+
 .contact-one-left-bg{
 	background-image: url(../images/homepage-1/bg/contact-bg.jpg);
 	background-position: center center;
