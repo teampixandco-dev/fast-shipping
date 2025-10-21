@@ -318,7 +318,7 @@
 
     .about-one__left {
         max-width: 600px;
-        margin: 0 auto 0;
+        margin: 30px auto 0;
     }
 
     .about-one__right {
@@ -551,7 +551,7 @@
     }
 
     .about-one__left {
-        margin-top: 0;
+        margin-top: 40px;
     }
 
     .about-one__shape-1 {
@@ -568,10 +568,10 @@
         margin-top: 50px;
     }
 
-    .about-one__img-box {
+    /* .about-one__img-box {
         flex-direction: column;
         align-items: baseline;
-    }
+    } */
 
     .about-one__trusted-box {
         left: 10px;
@@ -1445,3 +1445,8 @@
 
 
 @media only screen and (min-width: 1200px) and (max-width: 1470px) {}
+
+
+
+
+
