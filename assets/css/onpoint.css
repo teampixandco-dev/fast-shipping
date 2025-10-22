@@ -2177,6 +2177,7 @@ ul {
   height: 0;
   line-height: 0;
   z-index: 100;
+  gap: 10px;
 }
 
 #main-slider-pagination .swiper-pagination-bullet {
